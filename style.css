@@ -1,0 +1,22 @@
+h2,h3
+{
+color:blue; 
+background-color:yellow;
+}
+h4,h5,h6
+{
+color:red; 
+background-color:green;
+}
+/*button
+{
+color: White;
+background-color: #112233;
+font-size:30px;
+}*/
+
+
+body
+{
+background-color: pink;
+}
